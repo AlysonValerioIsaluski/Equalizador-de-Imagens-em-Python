@@ -1,0 +1,1 @@
+Equalizador de imagens digitais em Python que calcula a normalização e negativo na escala de cinza, e normalização com cor, para melhorar o contraste em imagens com problemas de intensidade luminosa. Além disso, mostra os gráficos relevantes, que mostram histograma, histograma acumulado e retas ideais.
